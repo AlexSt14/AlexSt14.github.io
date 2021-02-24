@@ -217,6 +217,7 @@ q {
     .Navbar a {
         width: 25%;  /* This makes each link take up 1/4 of the navbar */
         font-size: 12px;  /* This lowers the font size for screen width lower than 576px */
+        margin-right: 0;
     }
 }
 
@@ -403,7 +404,7 @@ h1::after {
     .sidebar {
         position: relative;
         width: 100%;
-        height: 25vw;
+        height: 36vw;
         padding: 1vw;
         text-align: center;
         margin-right: auto;
